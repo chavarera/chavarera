@@ -1,4 +1,4 @@
-<h2> Hi, 👋 I'm Ravishankar Chavare <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<h2> Hi, 👋 I'm Ravi<img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 <img align='right' src="https://miro.medium.com/max/680/1*IRGHmiGsa16stedQvIaZfw.gif" width="400">
 <p><em>Software Enginner at <a href="http://www.advarisk.com"> 🔭 Advarisk  </a><img src="https://media0.giphy.com/media/5h0piMX8ku0xj97W0t/giphy.gif?cid=ecf05e47ei4y7irkcmwjqsevx42bh2fakf436zer7ivam3ag&rid=giphy.gif" width="30">
 </em></p>
@@ -23,7 +23,6 @@
     <img width="50"  align='right' src="https://media.giphy.com/media/KAq5w47R9rmTuvWOWa/giphy.gif">
     <img width="50"  align='left' src="https://media2.giphy.com/media/SS8CV2rQdlYNLtBCiF/giphy.gif">
     <img width="50"  align='right' src="https://media.giphy.com/media/26n7b7PjSOZJwVCmY/giphy.gif">
-\
 </p>
 
  
