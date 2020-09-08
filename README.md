@@ -12,8 +12,8 @@
 <h3>Quick Links</h3>
 <ul >
   <li><a href="https://github.com/chavarera/FiveRudimentsOfPython">:green_book: Five Rudiments Of Python </a></li>
-  <li><a href="https://chavarera.github.io/python-snippets/">  :mortar_board: Learn Python Step by Step </a></li>
-    <li><a href="https://github.com/chavarera/PythonScript">  :page_facing_up: Python Coding Snipptes </a></li>
+  <li><a href="https://github.com/chavarera/PythonScript">  :mortar_board: Learn Python Step by Step </a></li>
+    <li><a href="https://chavarera.github.io/python-snippets/">  :page_facing_up: Python Coding Snipptes </a></li>
 
   <li><a href="https://github.com/chavarera/python-mini-projects">   :computer: Python Mini Project Collection </a></li>
 </ul>
